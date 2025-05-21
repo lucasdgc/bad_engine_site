@@ -10,4 +10,11 @@
   --code: #f06292;
   --preformatted: #ccc;
   --disabled: #111;
+  
+  --font-family: 'Courier New', Courier, monospace;
+  font-family: var(--font-family);
+}
+
+body {
+  font-family: var(--font-family);
 }
